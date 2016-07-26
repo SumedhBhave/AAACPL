@@ -1,5 +1,5 @@
 package com.aaacpl.bo.request.user;
-
+//class
 public class ChangePasswordBO {
 	private int userId;
 	private String oldPassword;
